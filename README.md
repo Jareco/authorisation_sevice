@@ -10,7 +10,7 @@ It's an authorisation service in Java. For developing this server-application we
 ##### Quick tutorial (How to use):
 -Bevor using you should edit "hibernate.cfg.xml" and "AutService". The first file is used for working
 with a data bank, so you should change the file accoriding to your data bank. In the file "AutService"
-you should change at least the ip-adresses of services, which your service would communicate with. 
+you should change at least the ip-adresses of services, which your service would communicate with. <br>
 -You should use Maven for creating of "DSE.war" file.<br>
 -Do not forget to create a table in your data bank. Use a "user.sql" for this.<br>
 -Deploy "DSE.war" for example using Tomcat.<br>
